@@ -4,7 +4,7 @@
 </a>
 </p>
 
-A simple JavaScript starter app for creating apps with [Cesium](http://cesium.agi.com/), the open-source WebGL virtual globe and map engine.  Just fork this repo and start coding.
+Adsadasdasdsadadasdasd simple JavaScript starter app for creating apps with [Cesium](http://cesium.agi.com/), the open-source WebGL virtual globe and map engine.  Just fork this repo and start coding.
 
 **Cesium version**: [1.8](http://cesiumjs.org/downloads.html).
 
